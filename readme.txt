@@ -26,4 +26,4 @@ day: days since registration.
 url: whether the expert has a personal page or not?
 status_level: a certain status.
 
-variable_info(centralized).csv: The file centralizes the information of variable_info.csv. Additionally, it computes the interaction items.  
+variable_info(centralized).csv: The file centralizes the information of variable_info.csv. Additionally, it calculates the interaction items.  
